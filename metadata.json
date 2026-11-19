@@ -1,0 +1,6 @@
+{
+  "name": "VARDAAN CREATION",
+  "description": "AI Image & Video Creative Studio for generating, editing, transforming images, crafting video storyboards & prompts, and managing local creations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">VARDAAN CREATION</string>
+    <string name="studio_tagline">AI Image &amp; Video Creative Studio</string>
+    <string name="firebase_notice_title">Sample Preview Mode</string>
+    <string name="firebase_notice_body">Cloud AI generation requires Firebase AI Logic to be enabled. Outputs shown here are local sample previews.</string>
+    <string name="nav_home">Studio</string>
+    <string name="nav_image">Image</string>
+    <string name="nav_video">Video</string>
+    <string name="nav_tools">AI Tools</string>
+    <string name="nav_history">History</string>
+    <string name="nav_downloads">Downloads</string>
+    <string name="nav_settings">Settings</string>
+    <string name="cd_back">Navigate back</string>
+    <string name="cd_search_tools">Search AI tools</string>
+    <string name="cd_studio_hero">VARDAAN CREATION creative studio banner</string>
+    <string name="cd_pick_source_image">Select source image from photo picker</string>
+    <string name="cd_generated_preview">Generated creative preview</string>
+    <string name="error_empty_prompt">Please enter a creative prompt before generating.</string>
+    <string name="error_missing_source_image">Please select a source image first.</string>
+</resources>
